@@ -1,2 +1,2 @@
 # ReflectionExample
-Reading DLL files with the Reflection Library in .Net Core
+Finding methods by reading the DLL files by class and attribute name with the Reflection Library in the .Net Core
