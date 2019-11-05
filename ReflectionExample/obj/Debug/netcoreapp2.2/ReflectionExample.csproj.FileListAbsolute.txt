@@ -1,0 +1,11 @@
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp2.2\ReflectionExample.deps.json
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp2.2\ReflectionExample.runtimeconfig.json
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp2.2\ReflectionExample.runtimeconfig.dev.json
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp2.2\ReflectionExample.dll
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\bin\Debug\netcoreapp2.2\ReflectionExample.pdb
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp2.2\ReflectionExample.csprojAssemblyReference.cache
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp2.2\ReflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp2.2\ReflectionExample.AssemblyInfoInputs.cache
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp2.2\ReflectionExample.AssemblyInfo.cs
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp2.2\ReflectionExample.dll
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ReflectionExample\obj\Debug\netcoreapp2.2\ReflectionExample.pdb

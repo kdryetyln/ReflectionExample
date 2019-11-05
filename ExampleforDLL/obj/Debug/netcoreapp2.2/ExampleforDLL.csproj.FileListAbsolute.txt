@@ -1,0 +1,9 @@
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\bin\Debug\netcoreapp2.2\ExampleforDLL.deps.json
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\bin\Debug\netcoreapp2.2\ExampleforDLL.dll
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\bin\Debug\netcoreapp2.2\ExampleforDLL.pdb
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\obj\Debug\netcoreapp2.2\ExampleforDLL.csprojAssemblyReference.cache
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\obj\Debug\netcoreapp2.2\ExampleforDLL.csproj.CoreCompileInputs.cache
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\obj\Debug\netcoreapp2.2\ExampleforDLL.AssemblyInfoInputs.cache
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\obj\Debug\netcoreapp2.2\ExampleforDLL.AssemblyInfo.cs
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\obj\Debug\netcoreapp2.2\ExampleforDLL.dll
+C:\Users\kadriye.taylan\Desktop\ReflectionExample\ExampleforDLL\obj\Debug\netcoreapp2.2\ExampleforDLL.pdb
